@@ -73,9 +73,10 @@ function getChuckleRandom(){
 
 
 chuckImg = [
-  "https://ultimateactionmovies.com/wp-content/uploads/2017/12/Chuck-Norris-e1559491533788.jpg",
-  "https://images01.military.com/sites/default/files/styles/full/public/2021-04/chucknorris.jpeg.jpg?itok=2b4A6n29",
-  "https://www.gannett-cdn.com/presto/2020/03/10/USAT/14860a5d-3ae8-4049-b4b5-5a02e14c4721-Chuck_Norris_01.JPG?width=2560",
-  "https://www.gannett-cdn.com/presto/2020/03/10/USAT/fa7a2862-9e98-4c3f-ad2f-64ba168de6ee-Chuck_Norris_06.JPG?width=2560",
-  "https://www.gannett-cdn.com/presto/2020/03/10/USAT/a56292d3-db7e-484d-b86d-0000483fa4d7-Chuck_Norris_16.JPG?width=1588"
+  "/img/Chuck Agent.jpg",
+  "/img/Chuck black Belt.jpg",
+  "/img/Chuck Karate.jpg",
+  "/img/Chuck Sitting.jpg",
+  "/img/Chuck with gun.jpg"
+  "/img/Chuck with guns.jpg"
 ]
