@@ -80,3 +80,4 @@ chuckImg = [
   "img/Chuck with gun.jpg",
   "img/Chuck with guns.jpg"
 ]
+getChuckleRandom()
