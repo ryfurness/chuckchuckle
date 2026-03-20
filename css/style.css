@@ -75,11 +75,13 @@ img{
 #left-arrow{
 	position: relative;
 	left:-90px;
+	cursor: pointer;
 }
 
 #right-arrow{
 	position: relative;
 	right:-90px;
+	cursor: pointer;
 }
 footer {
 
