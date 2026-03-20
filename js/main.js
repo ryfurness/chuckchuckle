@@ -77,6 +77,6 @@ chuckImg = [
   "img/Chuck black Belt.jpg",
   "img/Chuck Karate.jpg",
   "img/Chuck Sitting.jpg",
-  "img/Chuck with gun.jpg"
+  "img/Chuck with gun.jpg",
   "img/Chuck with guns.jpg"
 ]
